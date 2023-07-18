@@ -11,7 +11,7 @@ export default {
     },
     mounted() {
         this.$nextTick(() => {
-            window.location.href = "https://www.toniestrade.com/";
+            window.location.href = "https://intertrader.pro/";
         })
     }
 }
